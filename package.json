@@ -1,0 +1,21 @@
+{
+  "name": "logger-webpack-plugin",
+  "version": "0.0.1",
+  "description": "logger for webpack build",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "build",
+    "logger",
+    "git"
+  ],
+  "author": "shawn",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  }
+}
