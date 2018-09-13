@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "description": "logger for webpack build",
   "main": "index.js",
-  "scripts": {
-    "test": "npm run test"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamsk/logger-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -13,6 +14,10 @@
     "logger",
     "git"
   ],
+  "bugs": {
+    "url": "https://github.com/dreamsk/logger-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/dreamsk/logger-webpack-plugin#readme",
   "author": "shawn",
   "license": "ISC",
   "dependencies": {
